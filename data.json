@@ -1,1 +1,1 @@
-{"title":"Arnis Formations","people":[{"id":"zaa067","name":"Person 1","color":"#f4c24d"}],"formations":[{"id":"g2lcyf","name":"Formation 1","note":"","pos":{"zaa067":[19.26130724514391,48.00368637459237]}},{"id":"k2w9hi","name":"Formation 2","note":"","pos":{"zaa067":[50,50]}}]}
+{"title":"Arnis Formations","people":[],"formations":[{"id":"g2lcyf","name":"Formation 1","note":"","pos":{}},{"id":"k2w9hi","name":"Formation 2","note":"","pos":{}}]}
